@@ -98,6 +98,7 @@ title: Web.py Cookbook 简体中文版
 * [通过Apache和mod_wsgi部署](mod_wsgi-apache.zh-cn)
 * [mod_wsgi deployment through Nginx (未译)](mod_wsgi-nginx.zh-cn)
 * [Fastcgi deployment through Nginx (未译)](fastcgi-nginx.zh-cn)
+* [Gunicorn deployment through Apache or Nginx](gunicorn-apache-nginx.zh-cn)
 
 ##Subdomains 子域名:
 * Subdomains and how to access the username (requested)
